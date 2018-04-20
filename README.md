@@ -1,6 +1,6 @@
 # Team-Juanedi
 # Desarrollo de Software
 IV Semestre
-INTEGRANTES
-EDINSON MENESES
+
+EDINSON MENESES,
 JUAN GUTIERREZ
